@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antony-Jose
 - 👀 I’m interested in ..
-- 🌱 I’m currently learning high school
+- 🌱 I’m currently learning B.Tech Computer Science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
